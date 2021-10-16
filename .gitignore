@@ -3,4 +3,5 @@ mail/__pycache__/
 mail/migrations/
 project3/__pycache__/
 .mail/
+.idea/
 db.sqlite3
