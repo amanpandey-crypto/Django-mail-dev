@@ -2,10 +2,10 @@ Hello!
 
 **Local Setup**
 ---
-*Requirements:- Python 3.8+*<br>
-1) `git clone https://github.com/amanpandey-crypto/LostFound`
+*Requirements:- Python 3.7+*<br>
+1) `git clone https://github.com/amanpandey-crypto/Django-mail-dev`
 (For Contrituber: Use your Forked URL)
-2) `cd digi-connect`
+2) `cd Django-mail-dev`
 3) `python -m venv env`
 4) `source env/bin/activate` (Mac/Linux)<br>
    `env/Scripts/activate.ps1` (Windows-Powershell)
